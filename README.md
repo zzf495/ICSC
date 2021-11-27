@@ -17,7 +17,9 @@ demo.m: experimental demonstration on Office (surf) dataset.
   title={Domain adaptation via incremental confidence samples into classification},
   author={Teng, Shaohua and Zheng, Zefeng and Wu, Naiqi and Fei, Lunke and Zhang, Wei},
   journal={International Journal of Intelligent Systems},
-  publisher={Wiley Online Library}
+  publisher={Wiley Online Library},
+  volume={37},
+  pages={365--385},
 }
 ```
 

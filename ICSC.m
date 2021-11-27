@@ -85,7 +85,7 @@ function [Zs,Zt] = JPDA(Xs,Xt,Ys,YtPseudo,options)
 %%% E-mail: wenz@hust.edu.cn
 p = options.p;
 lambda = options.lambda;
-ker = options.ker;
+ker = options.kernel_type;
 mu = options.mu;
 gamma = options.gamma;
 
