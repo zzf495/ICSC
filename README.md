@@ -19,6 +19,7 @@ demo.m: experimental demonstration on Office (surf) dataset.
   journal={International Journal of Intelligent Systems},
   publisher={Wiley Online Library},
   volume={37},
+  year={2021},
   pages={365--385},
 }
 ```
