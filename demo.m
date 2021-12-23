@@ -14,6 +14,7 @@
 %%% result:     the classification accuracy (list)
 %%% mu:         the adjusted parameter (list)
 clc; clear all;
+addpath(genpath('./util/'));
 srcStr = {'caltech','caltech','caltech','amazon','amazon','amazon','webcam','webcam','webcam','dslr','dslr','dslr'};
 tgtStr = {'amazon','webcam','dslr','caltech','webcam','dslr','caltech','amazon','dslr','caltech','amazon','webcam'};
 finalResult=[];
