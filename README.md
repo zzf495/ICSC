@@ -1,6 +1,8 @@
 # Domain Adaptation via Incremental Confidence Samples into Classification
 
-This repository contains the codes of the [ICSC](http://doi.org/10.1002/int.22629) proposed in the International Journal of Intelligent Systems (IJIS)
+This repository contains the codes of the [ICSC](http://doi.org/10.1002/int.22629) proposed in the International Journal of Intelligent Systems (IJIS). 
+
+Apart from this, I would like to introduce [another repository](https://github.com/zzf495/Re-implementations-of-SDA) that integrates some shallow domain adaptation methods. I hope this can help.
 
 ## Code files (matlab implementation)
 
