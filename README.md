@@ -104,14 +104,17 @@ There are some results conducted on different datasets can be directly cited.
 
 ## Citation
 
+> MLA: Teng, Shaohua, et al. "Domain adaptation via incremental confidence samples into classification." *International Journal of Intelligent Systems* 37.1 (2022): 365-385.
+
 ```
-@article{tengs21ICSC,
+@article{teng2022domain,
   title={Domain adaptation via incremental confidence samples into classification},
   author={Teng, Shaohua and Zheng, Zefeng and Wu, Naiqi and Fei, Lunke and Zhang, Wei},
   journal={International Journal of Intelligent Systems},
-  publisher={Wiley Online Library},
   volume={37},
-  year={2021},
+  number={1},
   pages={365--385},
+  year={2022},
+  publisher={Wiley Online Library}
 }
 ```
