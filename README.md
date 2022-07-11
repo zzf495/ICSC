@@ -60,7 +60,7 @@ There are some results conducted on different datasets can be directly cited.
 | V      | I       | 81.95 |
 |        | AVERAGE | 73.5  |
 
-### 4. OfficeHome (Resnet50)
+### 4. OfficeHome (ResNet50)
 
 | SOURCE  | TARGET |       |
 | ------- | ------ | ----- |
@@ -78,7 +78,7 @@ There are some results conducted on different datasets can be directly cited.
 | Re      | Pr     | 79    |
 | AVERAGE |        | 65.84 |
 
-### 5. Office31 (Resnet50)
+### 5. Office31 (ResNet50)
 
 | SOURCE  | TARGET |       |
 | ------- | ------ | ----- |
@@ -90,7 +90,7 @@ There are some results conducted on different datasets can be directly cited.
 | W       | D      | 97.40 |
 | AVERAGE |        | 86.07 |
 
-### 6. ImageCLEF-DA-Resnet50
+### 6. ImageCLEF-DA (ResNet50)
 
 | SOURCE  | TARGET |       |
 | ------- | ------ | ----- |
