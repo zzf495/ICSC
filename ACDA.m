@@ -13,8 +13,8 @@ function mu = ACDA(Xs,Xt,Ys,PseudoYt,C)
     % solving (10)
     for i = 1:C
         Xc=X(Y==i,:);
-        Dw=Dw+norm(cov(Xc),'fro')*(length(Xc));
-        class_number=class_number+length(Xc);
+        Dw=Dw+norm(cov(Xc),'fro')*(size(Xc,1));
+        class_number=class_number+size(Xc,1);
     end
     Dw=Dw/class_number;
     % solving (11)
